@@ -1,0 +1,1 @@
+cd "C:\\Users\\20789\\Documents\\Personal\\Career\\Machine Learning\\Week2\\ex1"
